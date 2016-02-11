@@ -2,8 +2,8 @@
 Client JDBC écrit en Java
 
 ## Utilisation
+Ligne de commande attendue :
 ```
- Ligne de commande attendue :
    java [-D<property>=<value>] JdbcClient <chemin jdbc>
          -D<property>=<value> : Proprietes definies pour la connection jdbc,
                                 comme <user> ou <password>, suivant les valeurs
